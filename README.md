@@ -1,4 +1,4 @@
-# Desafio - Criando um Sistema Bancário - Versão 1
+# Desafio: Criando um Sistema Bancário - Versão 1
 
 ## Objetico Geral
 
